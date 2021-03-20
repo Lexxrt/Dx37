@@ -12,4 +12,5 @@
 
 - *Disclaimer*
 
+> **This Tool Needs Batch Files To Be Enabled OR ELSE This Won't Work**
 > **This tool is for educational purposes only. I am not responsible for any damage you cause**
